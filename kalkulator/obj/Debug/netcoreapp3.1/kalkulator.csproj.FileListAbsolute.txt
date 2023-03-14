@@ -1,0 +1,13 @@
+C:\Users\HP Pavillion\source\repos\kalkulator\kalkulator\bin\Debug\netcoreapp3.1\kalkulator.exe
+C:\Users\HP Pavillion\source\repos\kalkulator\kalkulator\bin\Debug\netcoreapp3.1\kalkulator.deps.json
+C:\Users\HP Pavillion\source\repos\kalkulator\kalkulator\bin\Debug\netcoreapp3.1\kalkulator.runtimeconfig.json
+C:\Users\HP Pavillion\source\repos\kalkulator\kalkulator\bin\Debug\netcoreapp3.1\kalkulator.runtimeconfig.dev.json
+C:\Users\HP Pavillion\source\repos\kalkulator\kalkulator\bin\Debug\netcoreapp3.1\kalkulator.dll
+C:\Users\HP Pavillion\source\repos\kalkulator\kalkulator\bin\Debug\netcoreapp3.1\kalkulator.pdb
+C:\Users\HP Pavillion\source\repos\kalkulator\kalkulator\obj\Debug\netcoreapp3.1\kalkulator.csproj.AssemblyReference.cache
+C:\Users\HP Pavillion\source\repos\kalkulator\kalkulator\obj\Debug\netcoreapp3.1\kalkulator.AssemblyInfoInputs.cache
+C:\Users\HP Pavillion\source\repos\kalkulator\kalkulator\obj\Debug\netcoreapp3.1\kalkulator.AssemblyInfo.cs
+C:\Users\HP Pavillion\source\repos\kalkulator\kalkulator\obj\Debug\netcoreapp3.1\kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\HP Pavillion\source\repos\kalkulator\kalkulator\obj\Debug\netcoreapp3.1\kalkulator.dll
+C:\Users\HP Pavillion\source\repos\kalkulator\kalkulator\obj\Debug\netcoreapp3.1\kalkulator.pdb
+C:\Users\HP Pavillion\source\repos\kalkulator\kalkulator\obj\Debug\netcoreapp3.1\kalkulator.genruntimeconfig.cache
